@@ -1,4 +1,4 @@
-
+//i do changes here 
 import java.util.Scanner;
 
 public class Count_LeafNode_In_Binary_Search_Tree{
@@ -19,6 +19,7 @@ public class Count_LeafNode_In_Binary_Search_Tree{
         // Firstly we should check that whether root is null or not, if null then  we will initialise the root node.
         if (root == null) {
             root = new Node(value);
+            
 
         } else {
 
